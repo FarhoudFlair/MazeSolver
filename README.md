@@ -11,6 +11,6 @@ Destination = D
 Start = S
 E = Empty
 
-![](Images/image1.png)
-![](Images/image2.png)
-![](Images/image3.png)
+![](Images/Image1.png)
+![](Images/Image2.png)
+![](Images/Image3.png)
